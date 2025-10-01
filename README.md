@@ -1,2 +1,2 @@
-# dinosearch-users
-User credentials for DinoSearch app
+# SCRIPT
+SCRIPT BY ESHKERE42BRUHA
